@@ -48,5 +48,5 @@ alias cd..='cd ..'
 alias ..='cd ..'
 alias r='sudo'
 alias su-='su -'
-alias tmux="TERM=screen-256color tmux attach||tmux"
+alias tmux="TERM=screen-256color tmux attach||TERM=screen-256color tmux"
 
