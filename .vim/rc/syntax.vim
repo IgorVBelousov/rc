@@ -1,0 +1,6 @@
+Bundle 'evidens/vim-twig'
+Bundle 'Markdown'
+Bundle 'othree/html5.vim'
+Bundle 'lepture/vim-css'
+Bundle 'vim-stylus'
+Bundle '2072/vim-syntax-for-PHP.git'
